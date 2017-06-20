@@ -1,2 +1,2 @@
-# Capstone-project
-Springboard project on Population based Cancer Detection
+# Capstone Project for Springboard Data Science class
+Capstone idea # 3 has been selected as the project.
