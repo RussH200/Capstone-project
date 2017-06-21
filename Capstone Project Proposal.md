@@ -5,7 +5,7 @@ Capstone idea \#3
 Assessing Cancer incidence and mortality in the United States
 
 ## Client Description and Potential Usage
-Policy makers, public health planners and others may interested in how cancer affects mortality rates geographically. Having this
+Policy makers, public health planners and others may be interested in how cancer affects mortality rates geographically. Having this
 detailed report would allow them to monitor the burden of disease and to implement cancer prevention and control programs.
 
 ## Data Acquisition
