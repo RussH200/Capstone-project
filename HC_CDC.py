@@ -8,11 +8,11 @@ filename = "byarea_10k.csv"
 
 # Read in CDC Wonder text file BYAREA and put in a dataframe df
 #df = pd.read_table(filename,sep='|')
-df = pd.read_csv(filename,sep='|',nrows=10000)
+df = pd.read_csv(filename,sep=',')
 
 # Write out Dataframe as a CSV file byarea.csv
 #df.to_csv("byarea.csv")
-df.to_csv('byarea_10k.csv')
+#df.to_csv('byarea_10k.csv')
 
 # print out the columns names
 df.columns
