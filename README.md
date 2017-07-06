@@ -4,4 +4,4 @@ Capstone idea # 3 has been selected as the project.
 
 # This is how you use version control software
 
-It's easy
+It's easy. NO ITS NOT
